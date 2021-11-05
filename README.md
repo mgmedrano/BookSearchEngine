@@ -28,7 +28,7 @@ As an avid reader you can search new books to read so that you can keep a list o
 Reachout to me at mgmedrano0203@gmail.com or via GitHub (username in questions)
 
 ## Preview
-> Preview ![BookSearchEngine](public/assets/BookSearchEngine.gif) 
+> Preview ![BookSearchEngine](client/public/assets/BookSearchEngine.gif) 
 
 
 ## Questions
