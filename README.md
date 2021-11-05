@@ -29,6 +29,7 @@ Reachout to me at mgmedrano0203@gmail.com or via GitHub (username in questions)
 
 ## Preview
 > Preview ![BookSearchEngine](client/public/assets/BookSearchEngine.gif) 
+> ![BookSearchEngine](client/public/assets/BookSearchEngine2.gif) 
 
 
 ## Questions
